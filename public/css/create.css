@@ -1,0 +1,67 @@
+.content .create_page {
+    width: 100%;
+    border-top: 1px solid #ccc;
+
+    box-sizing: border-box
+}
+
+.content .create_page .write_logo {
+    height: 45px;
+    padding: 0 20px;
+    border-bottom: 1px solid #ccc;
+    line-height: 2.5
+}
+
+.content .create_page .page_title {
+    height: 45px;
+    padding: 13px 20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #ccc
+}
+
+.content .create_page .page_title input {
+    width: 100%;
+    border: none;
+    font-size: 1.2em
+}
+
+.content .create_page .page_description {
+    padding: 13px 20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #ccc
+}
+
+.content .create_page .page_description textarea {
+    width: 100%;
+    min-height: 250px;
+    font-size: 1.2em;
+    border: none;
+    overflow: hidden;
+}
+
+.content .create_page .btn_tab {
+    padding: 10px 20px;
+    height: 70px;
+    box-sizing: border-box
+}
+
+.content .create_page .btn_tab .cancel_btn {
+    float: left;
+    width: 65px;
+    height: 30px;
+    background-color: #fff;
+    color: #1e1e1e;
+    font-weight: bold;
+    border: 2px solid #f1f4f8
+}
+
+
+.content .create_page .btn_tab .submit_btn {
+    float: right;
+    width: 65px;
+    height: 30px;
+    background-color: #6c4aa9;
+    font-weight: bold;
+    color: #fff;
+    border: none
+}
